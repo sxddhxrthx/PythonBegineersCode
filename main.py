@@ -21,3 +21,12 @@ print(str[3:7])
 
 # outputs - lo w
 # starts from index 3 and ends at index 6
+
+print(str[::3])
+
+# outputs - hlwl
+# starts from index 0 and ends at last index and skip 2(=3-1) character after printing a character
+
+print(str[::-1])
+
+# output - reverses the string without using reverse function
