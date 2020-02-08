@@ -18,3 +18,6 @@ print(str[:4])
 # starts from starting index and ends at index n-1
 
 print(str[3:7])
+
+# outputs - lo w
+# starts from index 3 and ends at index 6
